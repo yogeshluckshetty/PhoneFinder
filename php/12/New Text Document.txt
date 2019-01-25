@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Responsive Site</title>
+<link rel="stylesheet" type="text/css" href="rep.css">
+</head>
+<body>
+<header>
+<div id="container">
+<div class="name">
+<h2>Phone Finder</h2>
+</div>
+<nav>
+<ul>
+<li>Home</li>
+<li>About</li>
+<li>Services</li>
+</ul>
+</nav>
+</div>
+<section id="showcase">
+<div class="container">
+<h1>Affordable Proffessional Websites</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pellentesque leo a justo commodo aliquam. Cras tristique quam non velit dignissim, nec viverra dui semper. </p>
+</div>
+</section>
+<section id="newsletter">
+<div class="container>
+<h3>Subscribe To Our Newletter</h3>
+<input type="email" placeholder="Enter Email">
+<input type="submit" name="Subscribe">
+</div>
+<section>
+</body>
+</html>
